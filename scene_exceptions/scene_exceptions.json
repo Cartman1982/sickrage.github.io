@@ -634,6 +634,16 @@
                 "Dog Whisperer"
             ]
         },
+        "79214": {
+            "-1": [
+                "Mushi-Shi"
+            ],
+            "2": [
+                "Mushi-Shi -Next Passage-",
+                "Mushishi: Zoku-Shō",
+                "Mushishi: Zoku-Sho"
+            ]
+        },
         "79330": {
             "-1": [
                 "Jericho"
@@ -644,6 +654,20 @@
                 "Nightmares and Dreamscapes",
                 "nightmares and dreamscapes stories of stephen king",
                 "nightmares and dreamscapes of stephen king"
+            ]
+        },
+        "79525": {
+            "-1": [
+                "Code Geass: Lelouch of the Rebellion",
+                "Code Geass"
+            ],
+            "1": [
+                "Code Geass: Lelouch of the Rebellion R1",
+                "Code Geass R1"
+            ],
+            "2": [
+                "Code Geass: Lelouch of the Rebellion R2",
+                "Code Geass R2"
             ]
         },
         "79565": {
@@ -1664,7 +1688,8 @@
         },
         "252019": {
             "-1": [
-                "The Bridge 2011"
+                "The Bridge 2011",
+                "Broen"
             ]
         },
         "252312": {
@@ -1920,6 +1945,7 @@
         "263365": {
             "-1": [
                 "Marvels Agents of S H I E L D",
+                "Marvel Agents of S H I E L D",
                 "Marvel Agents Of SHIELD",
                 "Agents of S H I E L D"
             ]
@@ -3028,6 +3054,50 @@
             ],
             "5": [
                 "American Horror Story Hotel"
+            ]
+        },
+        "314087": {
+            "-1": [
+                "The Grand Tour",
+                "The Grand Tour (2016)"        
+            ]
+        },
+        "292157": {
+            "-1": [
+                "Taboo UK"        
+            ]
+        },
+        "248035": {
+            "2": [
+                "Ao no Exorcist - Kyoto Fujouou-hen"
+            ]
+        },
+        "303236": {
+            "-1": [
+                "Outsiders (2016)"
+            ]
+        },
+        "303867": {
+            "2": [
+                "Kono Subarashii Sekai ni Shukufuku wo! 2"
+            ]
+        },
+        "284133": {
+            "-1": [
+                "Rage of Bahamut",
+                "Shingeki no Bahamut"
+            ],
+            "1": [
+                "Rage of Bahamut: Genesis",
+                "Rage of Bahamut - Genesis",
+                "Shingeki no Bahamut: Genesis",
+                "Shingeki no Bahamut - Genesis"
+            ],
+            "2": [
+                "Rage of Bahamut: Virgin Soul",
+                "Rage of Bahamut - Virgin Soul",
+                "Shingeki no Bahamut: Virgin Soul",
+                "Shingeki no Bahamut - Virgin Soul"
             ]
         }
     }
