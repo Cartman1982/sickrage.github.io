@@ -1,4 +1,22 @@
 #0:Europe/Madrid
+ServusTV:Europe/Berlin
+arte:Europe/Berlin
+Premiere:Europe/Berlin
+TNT Comedy:Europe/Berlin
+kabel eins:Europe/Berlin
+Premiere Film:Europe/Berlin
+Clipfish:Europe/Berlin
+Prime Video:Europe/Berlin
+Joyn:Europe/Berlin
+NITRO:Europe/Berlin
+WarnerTV Comedy:Europe/Berlin
+Universal TV:Europe/Berlin
+TV NOW:Europe/Berlin
+Sat.1 Gold:Europe/Berlin
+13th Street:Europe/Berlin
+Sony Channel:Europe/Berlin
+
+
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
@@ -21,17 +39,6 @@
 3e (IE):Europe/Dublin
 3net (US):US/Eastern
 3sat:Europe/Berlin
-ServusTV:Europe/Berlin
-arte:Europe/Berlin
-Premiere:Europe/Berlin
-TNT Comedy:Europe/Berlin
-kabel eins:Europe/Berlin
-Premiere Film:Europe/Berlin
-Clipfish:Europe/Berlin
-Prime Video:Europe/Berlin
-Joyn:Europe/Berlin
-NITRO:Europe/Berlin
-WarnerTV Comedy:Europe/Berlin
 44 Adelaide (AU):Australia/Sydney
 47 (UK):Europe/London
 4Music (UK):Europe/London
