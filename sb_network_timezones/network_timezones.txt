@@ -1,6 +1,6 @@
 #0:Europe/Madrid
-ServusTV:Europe/Berlin
-arte:Europe/Berlin
+ServusTV:Europe/Vienna
+arte:Europe/Paris
 Premiere:Europe/Berlin
 TNT Comedy:Europe/Berlin
 kabel eins:Europe/Berlin
@@ -2424,7 +2424,7 @@ addikTV:Canada/Eastern
 alibi (UK):Europe/London
 amc (CA):Canada/Eastern
 aptn (CA):Canada/Eastern
-arte (DE):Europe/Berlin
+arte (DE):Europe/Paris
 aspire TV (AU):Australia/Sydney
 aurora (AU):Australia/Sydney
 aux (CA):Canada/Eastern
